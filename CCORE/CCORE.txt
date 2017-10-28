@@ -1,0 +1,5 @@
+Ccore comsol ile yapýlmýþtýr.
+Þekildeki normalde boþ olmasý gereken yerdeki kutucuk "hava"dýr. Daha 
+detaylý bir mesh ile fringing effect daha iyi gözlenmek için oluþturulmuþtur.
+Boyutlarý unuttum hatýrladýðým kadarýyla yaptým. ama hala comsolda coil oluþtururken 
+sýkýntýlarým var. Inductance hesabý vs. daha sonra eklenecektir
